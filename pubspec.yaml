@@ -1,7 +1,7 @@
 name: vroom
 description: "Wrapping the VROOM C++ library for Dart and Flutter. (Eventually)"
 repository: https://github.com/nielsenko/vroom-dart
-version: 0.0.2-dev.1
+version: 0.0.2-dev.2
 
 environment:
   sdk: '>=3.2.6 <4.0.0'
