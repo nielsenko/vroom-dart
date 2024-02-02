@@ -1,5 +1,5 @@
 name: vroom
-description: "A new Flutter FFI plugin project."
+description: "Wrapping the VROOM C++ library for Dart and Flutter. (Eventually)"
 repository: https://github.com/nielsenko/vroom-dart
 version: 0.0.1
 
